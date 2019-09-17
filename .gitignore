@@ -1,0 +1,9 @@
+# User-specific stuff and generated files
+/.idea/
+*.iml
+
+# Compiled class file
+*.class
+
+# production
+/build
